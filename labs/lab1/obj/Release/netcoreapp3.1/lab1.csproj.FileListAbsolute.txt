@@ -1,0 +1,13 @@
+D:\OOP\labs\lab1\bin\Release\netcoreapp3.1\lab1.exe
+D:\OOP\labs\lab1\bin\Release\netcoreapp3.1\lab1.deps.json
+D:\OOP\labs\lab1\bin\Release\netcoreapp3.1\lab1.runtimeconfig.json
+D:\OOP\labs\lab1\bin\Release\netcoreapp3.1\lab1.runtimeconfig.dev.json
+D:\OOP\labs\lab1\bin\Release\netcoreapp3.1\lab1.dll
+D:\OOP\labs\lab1\bin\Release\netcoreapp3.1\lab1.pdb
+D:\OOP\labs\lab1\obj\Release\netcoreapp3.1\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\labs\lab1\obj\Release\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+D:\OOP\labs\lab1\obj\Release\netcoreapp3.1\lab1.AssemblyInfo.cs
+D:\OOP\labs\lab1\obj\Release\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+D:\OOP\labs\lab1\obj\Release\netcoreapp3.1\lab1.dll
+D:\OOP\labs\lab1\obj\Release\netcoreapp3.1\lab1.pdb
+D:\OOP\labs\lab1\obj\Release\netcoreapp3.1\lab1.genruntimeconfig.cache
